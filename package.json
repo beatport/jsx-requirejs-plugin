@@ -1,0 +1,19 @@
+{
+  "name": "jsx-requirejs-plugin",
+  "version": "0.6.2",
+  "description": "A RequireJS plugin for loading and compiling (with r.js) JavaScript files containing JSX.",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beatport/jsx-requirejs-plugin.git"
+  },
+  "author": "https://github.com/philix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beatport/jsx-requirejs-plugin/issues"
+  },
+  "homepage": "https://github.com/beatport/jsx-requirejs-plugin#readme"
+}
